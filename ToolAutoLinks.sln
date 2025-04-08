@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolAutoLinks", "ToolAutoLinks.csproj", "{C653AB7F-2F0D-476C-880E-46DA77A2FC07}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AutoLinks", "..\AutoLinks\AutoLinks.vdproj", "{05E30085-DCFE-4FA1-BBB6-C367FF16037C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C653AB7F-2F0D-476C-880E-46DA77A2FC07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C653AB7F-2F0D-476C-880E-46DA77A2FC07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C653AB7F-2F0D-476C-880E-46DA77A2FC07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C653AB7F-2F0D-476C-880E-46DA77A2FC07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05E30085-DCFE-4FA1-BBB6-C367FF16037C}.Debug|Any CPU.ActiveCfg = Debug
+		{05E30085-DCFE-4FA1-BBB6-C367FF16037C}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5A48722-2D58-4E66-A321-E4FF945879C6}
+	EndGlobalSection
+EndGlobal
